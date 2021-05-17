@@ -67,7 +67,7 @@ Bag of balanced boosted learners also known as [EasyEnsemble](https://imbalanced
 
 [Easy Ensemble AdaBoost Classifier](https://imbalanced-learn.org/stable/references/generated/imblearn.combine.SMOTEENN.html) has the highest Balanced Accuracy Score out of all of the techniques employed in this project. EasyEnsemble also has the highest precision, recall, and F1 scores as proven by the imbalanced classification reports printed for each model.
 
-If one of the models in this project must be used to predict credit risk, it is recommended to use **Easy Ensemble AdaBoost Classifier.**  However, if given the option, it is not suggested to use any of these models. Although the EasyEnsemble model performed the best in this group, its precision for high-risk data points is still only 0.09. This indicates that very few of positive predictions are true (False Positives). Further research and development is required to create a more robust model that can predict credit risk.
+If one of the models in this project must be used to predict credit risk, it is recommended to use **Easy Ensemble AdaBoost Classifier.**  However, if given the option, it is not suggested to use any of these models. Although the EasyEnsemble model performed the best in this group, its precision for high-risk data points is still only 0.09. This indicates that very few of positive predictions are true (False Positives). Further research and development are required to create a more robust model that can predict credit risk.
 
 
 **Author: Michael Mishkanian**  
